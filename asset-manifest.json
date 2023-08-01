@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c872db1a.css",
+    "main.js": "/static/js/main.056a44b4.js",
+    "static/media/bg-log2x.jpg": "/static/media/bg-log2x.7e438e5cf81a1a99b697.jpg",
+    "static/media/bg-log.jpg": "/static/media/bg-log.36eed069cb7c61b10653.jpg",
+    "static/media/Gilroy-Light.otf": "/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/Availableonthe.svg": "/static/media/Availableonthe.0f20c8b8ee122dfd693a38f64bad94a3.svg",
+    "static/media/AndroidAppon.svg": "/static/media/AndroidAppon.9af2b85f0cb2907791d2f591058bb650.svg",
+    "static/media/AppleStore.svg": "/static/media/AppleStore.8b777450c03e1f91ae9d489e69c605b3.svg",
+    "static/media/googlePlay.svg": "/static/media/googlePlay.92a0200f24709322c319fa3539efecbe.svg",
+    "static/media/logo-kivi-gray.svg": "/static/media/logo-kivi-gray.206137a651f4adef925f4a79b463f724.svg",
+    "static/media/logo-kivi.svg": "/static/media/logo-kivi.4b2730a0cd5f93b09eb8e963d3e0792d.svg",
+    "static/media/kivi.svg": "/static/media/kivi.fc63e57efe8b706ade5d47cd74cafdc5.svg",
+    "static/media/Icon-GooglePlay.svg": "/static/media/Icon-GooglePlay.c158e5f359986793b34897e9e7ae476a.svg",
+    "static/media/icon-apple.svg": "/static/media/icon-apple.729b70021967406ac9d6fedd824a906c.svg",
+    "index.html": "/index.html",
+    "main.c872db1a.css.map": "/static/css/main.c872db1a.css.map",
+    "main.056a44b4.js.map": "/static/js/main.056a44b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c872db1a.css",
+    "static/js/main.056a44b4.js"
+  ]
+}
